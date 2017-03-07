@@ -1,3 +1,23 @@
 @import "../node_modules/normalize.css/normalize.css";
 @import "../node_modules/boilerplate-styles/styles/boilerplate.scss";
 
+body {
+    background-image: url("./bgs/rough_diagonal.png");
+    background-repeat: repeat;
+}
+
+.container {
+    background-color: $greyish-white;
+    padding: 30px;
+    width: 250px;
+    max-width: 250px;
+}
+
+.logo {
+    background-color: $orange;
+    padding: 2em;
+
+    img {
+        margin-left: 0.5em;
+    }
+}
