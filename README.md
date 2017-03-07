@@ -1,3 +1,3 @@
 # blackmesa-landing-page
 
-landing page for (www.)blackmesa.eu
+landing page for [www.blackmesa.eu](http://www.blackmesa.eu)
